@@ -1,2 +1,4 @@
 # Tableau-Data Visualizaton
- Data Visualization 
+ Data Visualization
+ Dashboard
+ Storytelling
